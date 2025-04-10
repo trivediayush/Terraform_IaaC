@@ -48,7 +48,7 @@ Container Port `80` is mapped to Host Port `8080`.
 <img src="/Screenshots/init.png">
 <img src="/Screenshots/plan.png">
 <img src="/Screenshots/apply.png">
-<img src="/Screenshots/appply_2.png">
+<img src="/Screenshots/apply_2.png">
 <img src="/Screenshots/docker.png">
 <img src="/Screenshots/state.png">
 <img src="/Screenshots/app.png">
