@@ -44,6 +44,16 @@ Container Port `80` is mapped to Host Port `8080`.
 
 *   The attribute `docker_image.nginx.latest` is deprecated. Use `docker_image.nginx.name` instead.
 
+🖼️ Screenshots
+<img src="/Screenshots/init.png">
+<img src="/Screenshots/plan.png">
+<img src="/Screenshots/apply.png">
+<img src="/Screenshots/appply_2.png">
+<img src="/Screenshots/docker.png">
+<img src="/Screenshots/state.png">
+<img src="/Screenshots/app.png">
+
 👤 Author
 ---------
    # Ayush Trivedi
+---------
